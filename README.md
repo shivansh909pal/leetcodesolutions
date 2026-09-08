@@ -2,7 +2,7 @@
 My LeetCode solutions and DSA practice.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 8 (Easy: 2, Medium: 5, Hard: 1)
+Solved: 9 (Easy: 2, Medium: 6, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -14,4 +14,5 @@ Solved: 8 (Easy: 2, Medium: 5, Hard: 1)
 | 8 | [String to Integer (atoi)](8-string-to-integer-atoi/) | Medium | 2026-09-08 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-08 |
 | 6 | [Zigzag Conversion](6-zigzag-conversion/) | Medium | 2026-09-08 |
+| 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters/) | Medium | 2026-09-08 |
 <!-- LEETHUB:TABLE:END -->
