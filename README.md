@@ -2,7 +2,7 @@
 My LeetCode solutions and DSA practice.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 13 (Easy: 4, Medium: 8, Hard: 1)
+Solved: 14 (Easy: 5, Medium: 8, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -13,10 +13,11 @@ Solved: 13 (Easy: 4, Medium: 8, Hard: 1)
 | 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters/) | Medium | 2026-09-09 |
 | 4 | [Median of Two Sorted Arrays](4-median-of-two-sorted-arrays/) | Hard | 2026-09-09 |
 | 9 | [Palindrome Number](9-palindrome-number/) | Easy | 2026-09-09 |
+| 486 | [Predict the Winner](486-predict-the-winner/) | Medium | 2026-09-09 |
 | 7 | [Reverse Integer](7-reverse-integer/) | Medium | 2026-09-09 |
 | 136 | [Single Number](136-single-number/) | Easy | 2026-09-09 |
 | 8 | [String to Integer (atoi)](8-string-to-integer-atoi/) | Medium | 2026-09-09 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-09 |
 | 6 | [Zigzag Conversion](6-zigzag-conversion/) | Medium | 2026-09-09 |
-| 486 | [Predict the Winner](486-predict-the-winner/) | Medium | 2026-09-09 |
+| 268 | [Missing Number](268-missing-number/) | Easy | 2026-09-09 |
 <!-- LEETHUB:TABLE:END -->
